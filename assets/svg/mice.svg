@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="16.961" viewBox="0 0 11 16.961">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc69fc"/>
+      <stop offset="0.523" stop-color="#10e7fb"/>
+      <stop offset="1" stop-color="#93f331"/>
+    </linearGradient>
+  </defs>
+  <g id="microphone-svgrepo-com" transform="translate(-84)">
+    <g id="XMLID_708_" transform="translate(84)">
+      <path id="XMLID_2131_" d="M95,175.266a.766.766,0,0,0-1.533,0,3.967,3.967,0,1,1-7.934,0,.766.766,0,0,0-1.533,0,5.505,5.505,0,0,0,4.734,5.447v3.023H86.761a.766.766,0,1,0,0,1.533h5.482a.766.766,0,1,0,0-1.533H90.27v-3.023A5.508,5.508,0,0,0,95,175.266Z" transform="translate(-84 -168.308)" fill="url(#linear-gradient)"/>
+      <g id="XMLID_2124_" transform="translate(2.519)">
+        <path id="XMLID_2050_" d="M157.981,0h0A2.98,2.98,0,0,0,155,2.981V6.909a2.98,2.98,0,0,0,2.981,2.981h0a2.98,2.98,0,0,0,2.981-2.981V2.981A2.98,2.98,0,0,0,157.981,0Zm0,1.984a.974.974,0,0,0-.972.972.444.444,0,1,1-.887,0A1.861,1.861,0,0,1,157.984,1.1a.444.444,0,1,1,0,.887Z" transform="translate(-155)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

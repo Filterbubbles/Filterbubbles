@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47.515" height="47.539" viewBox="0 0 47.515 47.539">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc69fc"/>
+      <stop offset="0.523" stop-color="#10e7fb"/>
+      <stop offset="1" stop-color="#93f331"/>
+    </linearGradient>
+  </defs>
+  <g id="XMLID_862_" transform="translate(-0.128)">
+    <path id="XMLID_868_" d="M53.456,16.234a11,11,0,0,1,5.608-3.241l1.085-.249V0l-1.57.2A23.737,23.737,0,0,0,42.617,9.411l-.959,1.263L52.7,17.047Zm-7.6-6.364a21.118,21.118,0,0,1,11.5-6.642v7.336a13.763,13.763,0,0,0-5.145,2.974Z" transform="translate(-37.661)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_903_" d="M13.311,154.445a11.133,11.133,0,0,1,0-6.481l.325-1.063L2.6,140.528l-.615,1.46a23.832,23.832,0,0,0,0,18.435l.615,1.46,11.039-6.373Zm-2.957-.269L4,157.847a21.089,21.089,0,0,1,0-13.284l6.358,3.671a13.961,13.961,0,0,0,0,5.943Z" transform="translate(0 -127.435)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_910_" d="M53.456,328.094l-.758-.813-11.04,6.373.959,1.263a23.738,23.738,0,0,0,15.961,9.215l1.57.2V331.583l-1.085-.249A11,11,0,0,1,53.456,328.094Zm3.9,13.006a21.117,21.117,0,0,1-11.5-6.642l6.353-3.668a13.763,13.763,0,0,0,5.145,2.974Z" transform="translate(-37.661 -296.788)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_913_" d="M276.821,328.093a11,11,0,0,1-5.608,3.241l-1.085.249v12.744l1.57-.2a23.737,23.737,0,0,0,15.961-9.215l.959-1.263-11.04-6.373Zm7.6,6.364a21.118,21.118,0,0,1-11.5,6.642v-7.336a13.764,13.764,0,0,0,5.145-2.974Z" transform="translate(-244.845 -296.788)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_916_" d="M365.94,240.127v1.4a11.066,11.066,0,0,1-.482,3.24l-.325,1.063,11.039,6.373.615-1.46a23.615,23.615,0,0,0,1.855-9.217v-1.4Zm8.833,8.039-6.358-3.671a13.832,13.832,0,0,0,.25-1.574H375.8A20.776,20.776,0,0,1,374.773,248.167Z" transform="translate(-330.999 -217.755)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_917_" d="M0,0H11.438V2.8H0Z" transform="translate(32.899 16.914) rotate(-28.743)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_918_" d="M0,0H7.6V2.795H0Z" transform="translate(27.105 13.026) rotate(-63.717)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_919_" d="M190.186,182.192a7.513,7.513,0,0,0-.848-3.466l-2.477,1.294a4.642,4.642,0,0,1,.531,2.172,4.7,4.7,0,1,1-4.7-4.7v-2.8a7.493,7.493,0,1,0,7.493,7.493Z" transform="translate(-158.76 -158.423)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
